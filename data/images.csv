@@ -1,0 +1,16 @@
+image_name,url,category,file_path
+dark_night_sky,https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800,dark,images/raw/dark_night_sky.png
+dark_forest,https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=800,dark,images/raw/dark_forest.png
+dark_cave,https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=800,dark,images/raw/dark_cave.png
+dark_space,https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800,dark,images/raw/dark_space.png
+dark_ocean,https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800,dark,images/raw/dark_ocean.png
+medium_city,https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800,medium,images/raw/medium_city.png
+medium_forest,https://images.unsplash.com/photo-1448375240586-882707db888b?w=800,medium,images/raw/medium_forest.png
+medium_mountain,https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800,medium,images/raw/medium_mountain.png
+medium_street,https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800,medium,images/raw/medium_street.png
+medium_lake,https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800,medium,images/raw/medium_lake.png
+bright_snow,https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800,bright,images/raw/bright_snow.png
+bright_beach,https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800,bright,images/raw/bright_beach.png
+bright_desert,https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800,bright,images/raw/bright_desert.png
+bright_clouds,https://images.unsplash.com/photo-1517483000871-1dbf64a6e1c6?w=800,bright,images/raw/bright_clouds.png
+bright_sky,https://images.unsplash.com/photo-1601297183305-6df142704ea2?w=800,bright,images/raw/bright_sky.png
